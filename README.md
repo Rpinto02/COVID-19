@@ -1,16 +1,20 @@
 # Analysing the World Heatlh Organization (WHO) COVID-19 data
 
 ##Introduction
+
 A small analysis of the data behind the World Heatlh Organization (WHO) daily reports and a open notebook to convert those into a usable dataframe.
 
 ##Getting Started
+
 ###Dependencies
+
 * Python 3.8
 * Pandas, Numpy
 * Tabula
 * Matplotlib, Seaborn
 
 ###Instructions
+
 Use the Who_Daily_Report notebook if you wish to convert the WHO reports from pdf to csv, inside the notebook you will find the details on how to use it.
 
 And if you want to take a look into my daily analysis just check the other notebooks.
