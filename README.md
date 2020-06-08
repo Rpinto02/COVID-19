@@ -12,6 +12,7 @@ A small analysis of the data behind the World Heatlh Organization (WHO) daily re
 * Pandas, Numpy
 * Tabula
 * Matplotlib, Seaborn
+* Requests
 
 ### Instructions
 
@@ -46,6 +47,7 @@ Este repositório é uma pequena análise dos dados dos relatórios diários da 
 * Pandas, Numpy
 * Tabula
 * Matplotlib, Seaborn
+* Requests
 
 ### Instruções
 
